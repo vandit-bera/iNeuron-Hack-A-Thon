@@ -17,7 +17,7 @@
 <h3 align="center">Hack-A-Thon</h3>
 
   <p align="center">   
-    <a href="">View Live Demo</a>
+    <a href="https://vb-ineuron-hack-a-thon.netlify.app/">View Live Demo</a>
   </p>
 </div>
 
@@ -76,7 +76,7 @@ This project is presently deployed in **Netlify Service**.
 
 
 
-[Live Project URL]()
+[Live Project URL](https://vb-ineuron-hack-a-thon.netlify.app/)
 <br>
 
 
